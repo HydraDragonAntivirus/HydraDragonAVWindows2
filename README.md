@@ -13,4 +13,5 @@ You can use United.txt button for get out from false positives at MaliciousIP li
 Thanks to: Black Banner for helping my journey.
 If you are 32 bit user just replace ClamAV with 32 bit version. Also change dnscrypt to 32 bit.
 It takes 10 minutes to load program.
+Current Detection Rate Under 90%.
 Download: https://mega.nz/file/i9YBxRzb#DFH6OnSkL20h4PG-Z21ETG3m-VRNNoFwCGdaYvWoJGY
