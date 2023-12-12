@@ -14,4 +14,4 @@ Thanks to: Black Banner for helping my journey.
 If you are 32 bit user just replace ClamAV with 32 bit version. Also change dnscrypt to 32 bit.
 It generally takes 10 minutes to load program.
 Current Detection Rate 90%+.
-Download: https://mega.nz/file/KkxmzKrK#qCil_XPaHHz1vLMCnqiLKj0d2C3Zxzw3vZa7itYaU1A
+Download: Coming Soon!
