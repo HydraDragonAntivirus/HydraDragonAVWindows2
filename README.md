@@ -12,6 +12,6 @@ Known issues: IDDQ GodMode Rule detects Avira etc. so to avoid false positives I
 You can use United.txt button for get out from false positives at MaliciousIP list YARA rules.
 Thanks to: Black Banner for helping my journey.
 If you are 32 bit user just replace ClamAV with 32 bit version. Also change dnscrypt to 32 bit.
-It generally takes 15 seconds to load program.
+It generally takes 5 minutes to load program.
 Current Detection Rate 90%+.
 Download: Coming Soon!
